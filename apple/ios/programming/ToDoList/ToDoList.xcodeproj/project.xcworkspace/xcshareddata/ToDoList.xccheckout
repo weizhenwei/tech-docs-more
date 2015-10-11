@@ -7,14 +7,14 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>611A177A-FCB8-41C7-A033-8DFDCA12C9B0</string>
 	<key>IDESourceControlProjectName</key>
-	<string>project</string>
+	<string>ToDoList</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>192FAF886FA65A340AC110783F554950813CAD15</key>
 		<string>https://github.com/weizhenwei/Cisco-work.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>apple/ios/programming/ToDoList/ToDoList.xcodeproj/project.xcworkspace</string>
+	<string>apple/ios/programming/ToDoList/ToDoList.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>192FAF886FA65A340AC110783F554950813CAD15</key>
